@@ -1,5 +1,6 @@
 #Make Sure to Change Blog Details Before Launch
 #Practice in Progress
+#Blogging details may change due to subject changes
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
