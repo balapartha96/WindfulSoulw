@@ -1,4 +1,5 @@
 #React in Practice
+#Blog in progress
 #Make Sure to Change Blog Details Before Launch
 #Practice in Progress
 #Blogging details may change due to subject changes
